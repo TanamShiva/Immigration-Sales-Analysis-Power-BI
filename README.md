@@ -98,16 +98,19 @@ This demonstrates strong understanding of: Context transition, Ranking logic, Ti
 * Top performer
 * YoY comparison
 * Sales trend
+<img src="1. Overview.png" width="800">
 
 #### Employee Performance 
 * Sales ranking
 * Top 3 performers
 * Branch wise sale
 * Position wise sale
+<img src="2. Employee Performance.png" width="800">
 
 #### Product Insights
 * Top-selling product
 * Country-level distribution
+<img src="3. Product Performance.png" width="800">
 
 #### Key Business Insights
 * Identified top-performing branches and employees using ranking logic
