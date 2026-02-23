@@ -9,7 +9,7 @@ The objective was to build an interactive dashboard that helps management:
 This project demonstrates my ability to combine data modeling, DAX calculations, and business analysis to generate actionable insights.
 
 ### Data Source
-The dataset was self-prepared in Excel and structured into multiple related tables.
+The dataset was self-prepared in Excel for learning purpose only and structured into multiple related tables.
 
 #### EmployeesImmi
 Contains employee-level data:
